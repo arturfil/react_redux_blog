@@ -1,0 +1,36 @@
+form a {
+  margin-left: 5px;
+}
+
+.post-button {
+  float: right;
+  margin-top: 5px;
+}
+
+.title {
+  font-family: 'Rancho', cursive;
+}
+
+.btn-danger {
+  margin-top: 5px;
+  margin-right: 3px;
+}
+
+.btn-primary {
+  margin-top: 5px;
+}
+
+.blog-body {
+  font-family: 'Cherry Cream Soda', cursive;
+  border: solid black 3px;
+  padding: 15px 15px 15px 15px;
+  border-radius: 30px;
+}
+
+.btn {
+  font-family: none;
+}
+
+.background {
+  color: blue;
+}
